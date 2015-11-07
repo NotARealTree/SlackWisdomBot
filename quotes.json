@@ -1,0 +1,644 @@
+{
+    "quotes": [
+        {
+            "quote": "A superior man is modest in his speech, but exceeds in his actions.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Ability will never catch up with the demand for it.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "An oppressive government is more to be feared than a tiger.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Be not ashamed of mistakes and thus make them crimes.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Before you embark on a journey of revenge, dig two graves.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Better a diamond with a flaw than a pebble without.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "By nature, men are nearly alike; by practice, they get to be wide apart.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; and third by experience, which is the bitterest.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Choose a job you love, and you will never have to work a day in your life.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Death and life have their determined appointments; riches and honors depend upon heaven.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Do not impose on others what you yourself do not desire.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Everything has beauty, but not everyone sees it.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Faced with what is right, to leave it undone shows a lack of courage.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Fine words and an insinuating appearance are seldom associated with true virtue.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Forget injuries, never forget kindnesses.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Go before the people with your example, and be laborious in their affairs.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Have no friends not equal to yourself.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "He who learns but does not think, is lost! He who thinks but does not learn is in great danger.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "He who speaks without modesty will find it difficult to make his words good.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "He who will not economize will have to agonize.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "He with whom neither slander that gradually soaks into the mind, nor statements that startle like a wound in the flesh, are successful may be called intelligent indeed.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Heaven means to be one with God.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Hold faithfulness and sincerity as first principles.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "I am not one who was born in the possession of knowledge; I am one who is fond of antiquity, and earnest in seeking it there.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "I have not seen a person who loved virtue, or one who hated what was not virtuous. He who loved virtue would esteem nothing above it.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "I hear and I forget. I see and I remember. I do and I understand.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "I hear, I know. I see, I remember. I do, I understand.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "I want you to be everything that's you, deep at the center of your being.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "I will not be concerned at other men's not knowing me;I will be concerned at my own want of ability.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "If a man takes no thought about what is distant, he will find sorrow near at hand.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "If a man withdraws his mind from the love of beauty, and applies it as sincerely to the love of the virtuous; if, in serving his parents, he can exert his utmost strength; if, in serving his prince, he can devote his life; if in his intercourse with his friends, his words are sincere - although men say that he has not learned, I will certainly say that he has.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "If I am walking with two other men, each of them will serve as my teacher. I will pick out the good points of the one and imitate them, and the bad points of the other and correct them in myself.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "If we don't know life, how can we know death?",
+            "name": "Confucius"
+        },
+        {
+            "quote": "If you look into your own heart, and you find nothing wrong there, what is there to worry about? What is there to fear?",
+            "name": "Confucius"
+        },
+        {
+            "quote": "If you think in terms of a year, plant a seed; if in terms of ten years, plant trees; if in terms of 100 years, teach the people.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Ignorance is the night of the mind, but a night without moon and star.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "In a country well governed, poverty is something to be ashamed of. In a country badly governed, wealth is something to be ashamed of.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Instead of being concerned that you have no office, be concerned to think how you may fit yourself for office. Instead of being concerned that you are not known, seek to be worthy of being known.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Is virtue a thing remote? I wish to be virtuous, and lo! Virtue is at hand.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "It does not matter how slowly you go as long as you do not stop.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "It is easy to hate and it is difficult to love. This is how the whole scheme of things works. All good things are difficult to achieve; and bad things are very easy to get.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "It is more shameful to distrust our friends than to be deceived by them.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Learning without thought is labor lost; thought without learning is perilous.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Life is really simple, but we insist on making it complicated.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Look at the means which a man employs, consider his motives, observe his pleasures. A man simply cannot conceal himself!",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Men's natures are alike, it is their habits that carry them far apart.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Never contract friendship with a man that is not better than thyself.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Never give a sword to a man who can't dance.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Old age, believe me, is a good and pleasant thing. It is true you are gently shouldered off the stage, but then you are given such a comfortable front stall as spectator.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Only the wisest and stupidest of men never change.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Our greatest glory is not in never falling, but in getting up every time we do.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Real knowledge is to know the extent of one's ignorance.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Recompense injury with justice, and recompense kindness with kindness.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Respect yourself and others will respect you.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Silence is a true friend who never betrays.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Speak the truth, do not yield to anger; give, if thou art asked for little; by these three steps thou wilt go near the gods.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Study the past if you would define the future.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Study the past, if you would divine the future.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Success depends upon previous preparation, and without such preparation there is sure to be failure.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The book salesman should be honored because he brings to our attention, as a rule, the very books we need most and neglect most.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The cautious seldom err.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The determined scholar and the man of virtue will not seek to live at the expense of injuring their virtue. They will even sacrifice their lives to preserve their virtue complete.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The expectations of life depend upon diligence; the mechanic that would perfect his work must first sharpen his tools.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The faults of a superior person are like the sun and moon. They have their faults, and everyone sees them; they change and everyone looks up to them.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The firm, the enduring, the simple, and the modest are near to virtue.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The man of virtue makes the difficulty to be overcome his first business, and success only a subsequent consideration.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The man who in view of gain thinks of righteousness; who in the view of danger is prepared to give up his life; and who does not forget an old agreement however far back it extends - such a man may be reckoned a complete man.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The more man meditates upon good thoughts, the better will be his world and the world at large.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The object of the superior man is truth.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The people may be made to follow a path of action, but they may not be made to understand it.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The scholar who cherishes the love of comfort is not fit to be deemed a scholar.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The strength of a nation derives from the integrity of the home.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The superior man acts before he speaks, and afterwards speaks according to his action.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The superior man cannot be known in little matters, but he may be entrusted with great concerns. The small man may not be entrusted with great concerns, but he may be known in little matters.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The superior man is distressed by the limitations of his ability; he is not distressed by the fact that men do not recognize the ability that he has.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The superior man is modest in his speech, but exceeds in his actions.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The superior man is satisfied and composed; the mean man is always full of distress.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The superior man makes the difficulty to be overcome his first interest; success only comes later.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The superior man thinks always of virtue; the common man thinks of comfort.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The superior man understands what is right; the inferior man understands what will sell.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The superior man, when resting in safety, does not forget that danger may come. When in a state of security he does not forget the possibility of ruin. When all is orderly, he does not forget that disorder may come. Thus his person is not endangered, and his States and all their clans are preserved.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The superior man...does not set his mind either for anything, or against anything; what is right he will follow.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "There are three things which the superior man guards against. In youth...lust. When he is strong...quarrelsomeness. When he is old...covetousness.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "They must often change who would be constant in happiness or wisdom.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Things that are done, it is needless to speak about...things that are past, it is needless to blame.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "To be able to practice five things everywhere under heaven constitutes perfect virtue...[They are] gravity, generosity of soul, sincerity, earnestness, and kindness.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "To be able under all circumstances to practice five things constitutes perfect virtue; these five things are gravity, generosity of soul, sincerity, earnestness and kindness.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "To be wronged is nothing unless you continue to remember it.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "To go beyond is as wrong as to fall short.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "To practice five things under all circumstances constitutes perfect virtue; these five are gravity, generosity of soul, sincerity, earnestness, and kindness.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "To see and listen to the wicked is already the beginning of wickedness.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "To see the right and not to do it is cowardice.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "To see what is right, and not to do it, is want of courage or of principle.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Virtue is more to man than either water or fire. I have seen men die from treading on water and fire, but I have never seen a man die from treading the course of virtue.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Virtue is not left to stand alone. He who practices it will have neighbors.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Virtuous people often revenge themselves for the constraints to which they submit by the boredom which they inspire.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "We should feel sorrow, but not sink under its oppression.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "What the superior man seeks is in himself; what the small man seeks is in others.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "What you do not want done to yourself, do not do to others.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "When a man's knowledge is sufficient to attain, and his virtue is not sufficient to enable him to hold, whatever he may have gained, he will lose again.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "When anger rises, think of the consequences.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "When we see men of a contrary character, we should turn inwards and examine ourselves.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "When we see men of worth, we should think of equaling them; when we see men of a contrary character, we should turn inwards and examine ourselves.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "When we see persons of worth, we should think of equaling them; when we see persons of a contrary character, we should turn inwards and examine ourselves.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "When you are laboring for others let it be with the same zeal as if it were for yourself.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "When you have faults, do not fear to abandon them.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "When you know a thing, to hold that you know it, and when you do not know a thing, to allow that you do not know it - this is knowledge.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Wheresoever you go, go with all your heart.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Wherever you go, go with all your heart.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "While you are not able to serve men, how can you serve spirits of the dead?...While you do not know life, how can you know about death?",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Wisdom, compassion, and courage are the three universally recognized moral qualities of men.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "With coarse rice to eat, with water to drink, and my bended arm for a pillow - I have still joy in the midst of these things. Riches and honors acquired by unrighteousness are to me as a floating cloud.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Without an acquaintance with the rules of propriety, it is impossible for the character to be established.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "Without feelings of respect, what is there to distinguish men from beasts?",
+            "name": "Confucius"
+        },
+        {
+            "quote": "You cannot open a book without learning something.",
+            "name": "Confucius"
+        },
+        {
+            "quote": "It is enough that the people know there was an election. The people who cast the votes decide nothing. The people who count the votes decide everything.",
+            "name": "Stalin"
+        },
+        {
+            "quote": "Ideas are more powerful than guns. We would not let our enemies have guns, why should we let them have ideas.",
+            "name": "Stalin"
+        },
+        {
+            "quote": "Death is the solution to all problems. No man - no problem.",
+            "name": "Stalin"
+        },
+        {
+            "quote": "Education is a weapon, whose effect depends on who holds it in his hands and at whom it is aimed.",
+            "name": "Stalin"
+        },
+        {
+            "quote": "The Pope! How many divisions has he got ?",
+            "name": "Stalin"
+        },
+        {
+            "quote": "Gratitude is a sickness suffered by dogs.",
+            "name": "Stalin"
+        },
+        {
+            "quote": "In the Soviet army it takes more courage to retreat than advance.",
+            "name": "Stalin"
+        },
+        {
+            "quote": "History shows that there are no invincible armies.",
+            "name": "Stalin"
+        },
+        {
+            "quote": "The writer is the engineer of the human soul.",
+            "name": "Stalin"
+        },
+        {
+            "quote": "I believe in one thing only, the power of the human will.",
+            "name": "Stalin"
+        },
+        {
+            "quote": "Freedom in capitalist society always remains about the same as it was in ancient Greek republics: Freedom for slave owners.",
+            "name": "Lenin"
+        },
+        {
+            "quote": "A lie told often enough becomes the truth.",
+            "name": "Lenin"
+        },
+        {
+            "quote": "The goal of socialism is communism.",
+            "name": "Lenin"
+        },
+        {
+            "quote": "The way to crush the bourgeoisie is to grind them between the millstones of taxation and inflation.",
+            "name": "Lenin"
+        },
+        {
+            "quote": "Give me four years to teach the children and the seed I have sown will never be uprooted.",
+            "name": "Lenin"
+        },
+        {
+            "quote": "There are no morals in politics; there is only expedience. A scoundrel may be of use to us just because he is a scoundrel.",
+            "name": "Lenin"
+        },
+        {
+            "quote": "Without a revolutionary theory there cannot be a revolutionary movement.",
+            "name": "Lenin"
+        },
+        {
+            "quote": "Communism is Soviet power plus the electrification of the whole country.",
+            "name": "Lenin"
+        },
+        {
+            "quote": "Under socialism all will govern in turn and will soon become accustomed to no one governing.",
+            "name": "Lenin"
+        },
+        {
+            "quote": "No amount of political freedom will satisfy the hungry masses.",
+            "name": "Lenin"
+        },
+        {
+            "quote": "If the freedom of speech is taken away then dumb and silent we may be led, like sheep to the slaughter.",
+            "name": "George Washington"
+        },
+        {
+            "quote": "I hope I shall possess firmness and virtue enough to maintain what I consider the most enviable of all titles, the character of an honest man.",
+            "name": "George Washington"
+        },
+        {
+            "quote": "Observe good faith and justice toward all nations. Cultivate peace and harmony with all.",
+            "name": "George Washington"
+        },
+        {
+            "quote": "Discipline is the soul of an army. It makes small numbers formidable; procures success to the weak, and esteem to all.",
+            "name": "George Washington"
+        },
+        {
+            "quote": "It is better to offer no excuse than a bad one.",
+            "name": "George Washington"
+        },
+        {
+            "quote": "Liberty, when it begins to take root, is a plant of rapid growth.",
+            "name": "George Washington"
+        },
+        {
+            "quote": "Happiness and moral duty are inseparably connected.",
+            "name": "George Washington"
+        },
+        {
+            "quote": "Arbitrary power is most easily established on the ruins of liberty abused to licentiousness.",
+            "name": "George Washington"
+        },
+        {
+            "quote": "Worry is the interest paid by those who borrow trouble.",
+            "name": "George Washington"
+        },
+        {
+            "quote": "The basis of our political system is the right of the people to make and to alter their constitutions of government.",
+            "name": "George Washington"
+        },
+        {
+            "quote": "A people that values its privileges above its principles soon loses both.",
+            "name": "Dwight D. Eisenhower"
+        },
+        {
+            "quote": "In preparing for battle I have always found that plans are useless, but planning is indispensable.",
+            "name": "Dwight D. Eisenhower"
+        },
+        {
+            "quote": "I hate war as only a soldier who has lived it can, only as one who has seen its brutality, its futility, its stupidity.",
+            "name": "Dwight D. Eisenhower"
+        },
+        {
+            "quote": "Leadership is the art of getting someone else to do something you want done because he wants to do it.",
+            "name": "Dwight D. Eisenhower"
+        },
+        {
+            "quote": "May we never confuse honest dissent with disloyal subversion.",
+            "name": "Dwight D. Eisenhower"
+        },
+        {
+            "quote": "Farming looks mighty easy when your plow is a pencil and you're a thousand miles from the corn field.",
+            "name": "Dwight D. Eisenhower"
+        },
+        {
+            "quote": "Generally speaking, the Way of the warrior is resolute acceptance of death.",
+            "name": "Miyamoto Musashi"
+        },
+        {
+            "quote": "Perception is strong and sight weak. In strategy it is important to see distant things as if they were close and to take a distanced view of close things.",
+            "name": "Miyamoto Musashi"
+        },
+        {
+            "quote": "Perceive that which cannot be seen with the eye.",
+            "name": "Miyamoto Musashi"
+        },
+        {
+            "quote": "Do nothing which is of no use.",
+            "name": "Miyamoto Musashi"
+        },
+        {
+            "quote": "Study strategy over the years and achieve the spirit of the warrior. Today is victory over yourself of yesterday; tomorrow is your victory over lesser men.",
+            "name": "Miyamoto Musashi"
+        }
+    ]
+}
