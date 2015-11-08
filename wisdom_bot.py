@@ -7,12 +7,19 @@ import time
 
 from slackclient import SlackClient
 
+from quote import Quote
 
-def load_quotes(path):
+
+def load_quotes(path, stopwords):
     with open(path) as json_file:
         quotes = json.load(json_file)['quotes']
         json_file.close()
-    return quotes
+
+    result = []
+    for quote in quotes:
+        cleaned_quote = set(clean_input_sentence(str(quote['quote']), stopwords))
+        result.append(Quote(cleaned_quote, str(quote['name']), str(quote['quote'])))
+    return result
 
 
 def load_stopwords():
@@ -34,22 +41,20 @@ def load_config(path):
 
 
 def find_quote(sentence, quotes, stopwords):
-    words = clean_input_sentence(sentence, stopwords)
+    words = set(clean_input_sentence(str(sentence), stopwords))
+    words.remove('')
+    result = None
     score = 0
-    current_quote = None
-    for quote in quotes:
-        quote_words = clean_input_sentence(quote['quote'], stopwords)
-        temp_score = 0
-        for word in words:
-            if word in quote_words:
-                temp_score += 1
 
-        if temp_score > score:
-            score = temp_score
-            current_quote = quote
-    if current_quote is None:
-        current_quote = random.choice(quotes)
-    return current_quote
+    for quote in quotes:
+        quote_set = quote.quote
+        if len(set.intersection(quote_set, words)) > score:
+            score = len(set.intersection(quote_set, words))
+            result = quote
+
+    if result is None:
+        result = random.choice(quotes)
+    return result
 
 
 def clean_input_sentence(input, stopwords):
@@ -89,7 +94,7 @@ def be_wise(config, quotes, stopwords):
                     sentence = message['text'][len(user_id)+3:]
                     quote = find_quote(sentence, quotes, stopwords)
                     name = get_user_name(slack_client, message['user'])
-                    response = '<@%s>: %s says: "%s"' % (name, str(quote['name']), str(quote['quote']))
+                    response = '<@%s>: %s says: "%s"' % (name, quote.author, quote.sentence)
                     slack_client.rtm_send_message(message['channel'], response)
 
         time.sleep(1)
@@ -97,7 +102,7 @@ def be_wise(config, quotes, stopwords):
 
 if __name__ == '__main__':
     config = load_config('wisdom.conf')
-    quotes = load_quotes('quotes.json')
     stopwords = load_stopwords()
+    quotes = load_quotes('quotes.json', stopwords)
     random.shuffle(quotes)
     be_wise(config, quotes, stopwords)
